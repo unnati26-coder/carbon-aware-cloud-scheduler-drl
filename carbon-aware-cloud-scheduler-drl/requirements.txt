@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib
-gymnasium
-stable-baselines3
-cloudsim-plus
